@@ -59,8 +59,8 @@ We believe in leveraging the right technology for the right problem. Rather than
 ---
 
 ## 📫 Contact Us
-📧 Email: [contact@yourcompany.com](mailto:contact@yourcompany.com)  
-🌐 Website: [www.yourcompany.com](https://yourcompany.com)  
-💼 LinkedIn: [YourCompany](https://linkedin.com/company/yourcompany)  
+📧 Email: [Jon@777crew.com](mailto:jon@777crew.com)  
+🌐 Website: [www.777crew.com.com](https://777crew.com)  
+
 
 💡 *Let's build something amazing together!* 🚀
